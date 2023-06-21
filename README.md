@@ -38,6 +38,6 @@ Como policia pede fazer os seguinte comandos a baixo, o script verifica o id do 
 - /tirarcarta ```mota ``` , ```carro ```, ```camiao ```,``` reboque``` em frente ao jogador
 
 ## Estados da Ablitação / carta de condução
- - Estado **1** Utilizador com abilitação / carta
- - Estado **2** abilitação / carta apreendida
- - Estado **3** sem abilitação / carta
+ - Estado ```1``` Utilizador com abilitação / carta
+ - Estado ```2``` abilitação / carta apreendida
+ - Estado ```3``` sem abilitação / carta
