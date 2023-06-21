@@ -7,7 +7,7 @@ Ao normal script para vRPEX de tirar a ablitação para conduzir foi adicionado 
 - B - Carro
 - C - Pesado
 - C + E - [PT-BR] Caminhão + Traler / [PT-PT] Camião + Semi-reboque
-- D - [PT-BR] Ônibus / [PT-PT] Autocarro
+- D - [PT-BR] Ônibus / [PT-PT] Autocarro **Ainda não implementada**
 
 - Para cada uma delas tem as velocidades ajustadas para a sua categoria segundo o codigo da estrada em Portugal.
 - O teste de Teoria ainda não está terminado infelizmente mas em breve receberá a devida atenção.
