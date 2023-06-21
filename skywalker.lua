@@ -185,7 +185,7 @@ RegisterCommand("tirarcarta",function(source,args)
 	local creboque = vRP.identity.creboque (source,user_id,creboque)
 	if vRP.hasPermission(user_id,"policia.permissao") or vRP.hasPermission(user_id,"mindmaster.permissao") then	
 		if nplayer then
-			if args[1] == "mota" then
+			if args[1] == "mota" or "moto" then
 				if cmota == 1 then
 					TriggerEvent("rmota",3,nuser_id)
 					TriggerClientEvent("Notify",source,"sucesso","Apreendeu a carta de condução de <b>"..identitynu.name.." "..identitynu.firstname.."</b>.",5000)
@@ -204,7 +204,7 @@ RegisterCommand("tirarcarta",function(source,args)
 					TriggerClientEvent("Notify",source,"negado","Carta já apreendida",5000) 
 				end
 				
-			elseif args[1] == "camiao" then
+			elseif args[1] == "camiao" or "caminhao" then
 				if ccamiao == 1 then
 					TriggerEvent("rcamiao",3,nuser_id)
 					TriggerClientEvent("Notify",source,"sucesso","Apreendeu a carta de condução de <b>"..identitynu.name.." "..identitynu.firstname.."</b>.",5000)
@@ -213,7 +213,7 @@ RegisterCommand("tirarcarta",function(source,args)
 					TriggerClientEvent("Notify",source,"negado","Carta já apreendida",5000) 
 				end
 				
-			elseif args[1] == "reboque" then
+			elseif args[1] == "reboque" or "traler" then
 				if creboque == 1 then
 					TriggerEvent("rreboque",3,nuser_id)
 					TriggerClientEvent("Notify",source,"sucesso","Apreendeu a carta de condução de <b>"..identitynu.name.." "..identitynu.firstname.."</b>.",5000)
