@@ -1,5 +1,7 @@
 # nav_carta
 **Este script foi uma melhoria de um script existente na comunidade para uso free.**
+**Script Original vrp_autoescola da Zirix V3**
+**Como tal pode alterar o mesmo ao seu gosto mas pfv mantenha os creditos do meu tempo investido nele**
 
 Ao normal script para vRPEX de tirar a ablitação para conduzir foi adicionado mais categorias.
 - T - Teórica
@@ -14,12 +16,17 @@ Ao normal script para vRPEX de tirar a ablitação para conduzir foi adicionado 
 - O teste de Teoria ainda não está terminado infelizmente mas em breve receberá a devida atenção.
 - Os campos da BD que são necessários são criados automaticamente pelo script.
 
-## Trabalho realizados 
-- [ ] Teórica
+## Trabalho realizados
+
 - [x] Categoria A teste prático
 - [x] Categoria B teste prático
 - [X] Categoria C teste prático
 - [X] Categoria C + E teste prático
+    - [ ] Avião
+    - [ ] Barco
+    - [ ] Armas
+## Trabalho em falta
+- [ ] Teórica
     - [ ] Avião
     - [ ] Barco
     - [ ] Armas
