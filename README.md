@@ -22,9 +22,7 @@ Ao normal script para vRPEX de tirar a ablitação para conduzir foi adicionado 
 - [x] Categoria B teste prático
 - [X] Categoria C teste prático
 - [X] Categoria C + E teste prático
-    - [ ] Avião
-    - [ ] Barco
-    - [ ] Armas
+
 ## Trabalho em falta
 - [ ] Teórica
     - [ ] Avião
