@@ -25,9 +25,9 @@ Ao normal script para vRPEX de tirar a ablitação para conduzir foi adicionado 
 
 ## Trabalho em falta
 - [ ] Teórica
-    - [ ] Avião
-    - [ ] Barco
-    - [ ] Armas
+    - [ ] Avião teste prático
+    - [ ] Barco teste prático
+    - [ ] Armas teste prático
 
 ## Verificação de pose de ablitações apenas os policias ou a `policia.permissao` pode consultar e retirar cada tipo de carta.
 Como policia pede fazer os seguinte comandos a baixo, o script verifica o id do jogador que está na sua frente.
