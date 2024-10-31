@@ -1,9 +1,12 @@
+<div align="center">
 <img src="https://img.shields.io/github/downloads/ice41/nav_carta/total)" alt=""/>
 <img src="https://img.shields.io/github/languages/count/ice41/nav_carta" alt=""/>
 <img src="https://img.shields.io/github/languages/top/ice41/nav_carta?color=yellow" alt=""/>
 <img src="https://img.shields.io/bitbucket/issues/ice41/nav_carta" alt=""/>
 <img src="https://img.shields.io/github/forks/ice41/nav_carta?style=social" alt=""/>
 <img src="https://img.shields.io/github/stars/ice41/nav_carta?style=social" alt=""/>
+</div>
+
 # nav_carta
 **Este script foi uma melhoria de um script existente na comunidade para uso free.**
 **Script Original vrp_autoescola da Zirix V3**
